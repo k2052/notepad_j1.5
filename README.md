@@ -1,4 +1,4 @@
-Just download and unzip into your templates folder. Should work out of the box. 
+Just download, unzip into your templates folder and then rename the folder to "notepad". Should work out of the box. 
 
 If you get any PHP errors report them at the [Simplex repo](https://github.com/bookworm/simplex). Any CSS/HTML/JS or override issues are probably template specific and should be reported in this repo.
 
