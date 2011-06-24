@@ -1,0 +1,3 @@
+[submodule "simplex"]
+	path = simplex
+	url = git://github.com/bookworm/simplex.git

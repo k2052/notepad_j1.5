@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install version="1.5" type="template">
+	<name>notepad</name>
+	<version>1.0</version>
+	<creationDate>1/2/09</creationDate>
+	<author>Bookworm</author>
+	<authorEmail>support@designbreakdown.com</authorEmail>
+	<authorUrl>http://www.club.designbreakdown.com</authorUrl>
+	<copyright></copyright>
+	<license>GNU/GPL version 2</license>
+	<description>Template Description</description>
+	<positions>
+		<position>header</position>  
+		<position>search</position>
+		<position>right</position>
+		<position>copyright</position>
+		<position>credits</position>
+		<position>debug</position> 
+		<position>featured-image</position>
+		<position>featured-content</position>
+		<position>bread-left</position>
+		<position>bread-right</position>
+		<position>breadcrumbs</position>   
+		<position>info-left</position>
+		<position>info-right</position>
+	</positions>
+    <params addpath="/templates/blank/simplex/j_admin/elements">  	
+	    <param name="" type="niceforms" default=""/>
+	</params>
+</install>
